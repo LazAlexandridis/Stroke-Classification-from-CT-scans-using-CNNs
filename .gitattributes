@@ -1,0 +1,4 @@
+*.ipynb linguist-detectable=false
+*.pdf linguist-detectable=false
+*.py linguist-detectable=true
+*.md linguist-documentation
